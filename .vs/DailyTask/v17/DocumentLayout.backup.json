@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\DailyTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{519BB98F-DCE2-4A2D-A2BF-A226F763384D}|DailyTask\\DailyTask.csproj|d:\\projects\\dailytask\\dailytask\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{519BB98F-DCE2-4A2D-A2BF-A226F763384D}|DailyTask\\DailyTask.csproj|solutionrelative:dailytask\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Projects\\DailyTask\\DailyTask\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DailyTask\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Projects\\DailyTask\\DailyTask\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DailyTask\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-08T08:30:27.467Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

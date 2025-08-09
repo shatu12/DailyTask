@@ -1,0 +1,19 @@
+{
+  "name": "dailytask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev:css": "npx @tailwindcss/cli -i ./assets/styles.css -o ./wwwroot/css/site.css --watch --content \"./**/*.{cshtml,html,js,ts}\"",
+    "build:css": "npx @tailwindcss/cli -i ./assets/styles.css -o ./wwwroot/css/site.css --minify --content \"./**/*.{cshtml,html,js,ts}\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.1.11",
+    "tailwindcss": "^4.1.11"
+  }
+
+}
